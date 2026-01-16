@@ -11,7 +11,8 @@ maintain consistency on GitHub, and track my learning progress.
 - Java Conditional Statements (If/else, Looping, switches, Java calculator, health buddy small project)
 - java functions (factorial,Palindrome, Average of 3 num, print prime in range, binomial, decimal to binary)
 - Java loops (prime or not, factorial,for loop, while loop, break, continue, sum of n, print table of any number)
-- java Patterns (inverted star, alphabet patter)
+- java Patterns (inverted star, alphabet pyramid, number pyramid, inverted star, floydTriangle, butterfly pattern)
+- dsa arrays (binary search, kadans subarray, trapping water, buy sell stock, max subarrays)
   
 ## Structure
 Each topic is organized into separate folders for better clarity
